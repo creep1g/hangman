@@ -1,0 +1,26 @@
+--- !ruby/object:Game
+board:
+- c
+- e
+- r
+- e
+- m
+- o
+- n
+- i
+- o
+- u
+- s
+missed: []
+word:
+- c
+- e
+- r
+- e
+- m
+- o
+- n
+- i
+- o
+- u
+- s
