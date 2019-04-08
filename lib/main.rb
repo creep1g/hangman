@@ -114,7 +114,7 @@ def guess
 end
 
 def game()
-  i = 0
+  i = 1
   while i != 8
     puts $game.board_to_s
     puts $game.missed_letters unless $game.missed_letters.length() == 16
