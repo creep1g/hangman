@@ -114,7 +114,6 @@ def guess
 end
 
 def game()
-  puts $word.join()
   i = 0
   while i != 8
     puts $game.board_to_s
